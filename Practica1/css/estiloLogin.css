@@ -1,0 +1,31 @@
+html{
+    height: auto;
+    min-height: 100%;
+}
+body{
+    background: linear-gradient(to bottom right, #1c3458, #3a709cdc);
+}
+section{
+    background-color: rgb(176, 196, 222);
+    border-radius: 75px;
+    margin: 50px;
+    padding: 25px;
+}
+h1{
+    color: royalblue;
+    text-align: center;
+    font-size: 50px;
+    margin: 5px;
+}
+form{
+    /**background-color: lightsteelblue;*/
+    margin: 20px;
+}
+div{
+    margin: 5px;
+    padding: 15px;
+    
+}
+a{
+    text-decoration: none;
+}
