@@ -7,3 +7,4 @@ function iniciarSesion() {
     console.log("Contraseña: " + password.value);
     alert("Se ha iniciado la sesión");
 }
+
